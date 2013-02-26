@@ -1,13 +1,14 @@
 {
   "name": "has-canvas-jpeg",
-  "repo": "component/has-canvas-jpeg",
   "description": "Has Canvas toDataURL() JPEG support",
   "version": "0.0.1",
-  "keywords": ["canvas", "jpeg", "png", "image"],
+  "keywords": [],
   "dependencies": {},
   "development": {},
   "license": "MIT",
-  "scripts": [
-    "index.js"
-  ]
+  "component": {
+    "scripts": {
+      "has-canvas-jpeg": "index.js"
+    }
+  }
 }
