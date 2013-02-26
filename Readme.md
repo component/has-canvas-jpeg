@@ -1,7 +1,7 @@
 
 # has-canvas-jpeg
 
-  Has Canvas toDataURL() JPEG support
+  Check if a browser has Canvas `toDataURL()` JPEG support.
 
 ## Installation
 
@@ -9,7 +9,10 @@
 
 ## API
 
-   
+```js
+var has = require('has-canvas-jpeg');
+console.log(has());
+```
 
 ## License
 
