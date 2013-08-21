@@ -10,5 +10,9 @@
     "scripts": {
       "has-canvas-jpeg": "index.js"
     }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/component/has-canvas-jpeg.git"
   }
 }
